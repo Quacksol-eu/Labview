@@ -1,0 +1,6 @@
+kutas3 Age: 34
+Z1	Endurance	93 - 121	9 %
+Z2	Moderate	121 - 149	28 %
+Z3	Tempo	149 - 158	32 %
+Z4	Threshold	158 - 171	27 %
+Z5	Anaerobic	171 - 186	5 %
